@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Byagalwar</h1>
-<h3 align="center">Interested To Work MERN Stack Development</h3>
+<h3 align="center">A Full stack web Developer with good knowledge of Tech skills and building the most interactive Websites and Web Application that leads to the success of the overall product
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshbyaga&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshbyaga" /> </p>
 
